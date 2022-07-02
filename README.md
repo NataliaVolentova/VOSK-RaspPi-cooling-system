@@ -24,7 +24,7 @@ big clusters.
 For installation instructions, examples and documentation visit [Vosk
 Website](https://alphacephei.com/vosk).
 
-#VOSK-RaspPi-cooling-system-Project
+# VOSK-RaspPi-cooling-system-Project
 
 <img width="784" alt="image" src="https://user-images.githubusercontent.com/56755479/177009688-4768f36b-ecaa-4e39-ba2c-d32e53d97cd7.png">
 <img width="784" alt="image" src="https://user-images.githubusercontent.com/56755479/177009739-5b5ed094-7fa2-4319-9741-f3656c493647.png">
